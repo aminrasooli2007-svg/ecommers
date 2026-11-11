@@ -48,8 +48,11 @@ function App() {
         </article>
 
         
-        <article className="h-screen w-40 bg-slate-500">
-          kj
+        <article className="h-screen w-60 bg-slate-500">
+          <h1 className="text-2xl text-bold text-white p-2">Basket :</h1>
+          <p>ID: </p>
+          <p>Name: </p>
+          <p>Name: </p>
         </article>
 
       </section>
